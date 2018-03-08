@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  ch.catnip.pushy.autoconfigure.PushyAutoConfiguration
